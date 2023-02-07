@@ -135,3 +135,9 @@ margin-left: -5px;
 input{
     outline: none;
 }
+body{
+    background-image: url(' https://static.wikia.nocookie.net/90e01147-529d-4016-9cb0-8a7383bdf070/scale-to-width/755');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 530px,600px;
+}
